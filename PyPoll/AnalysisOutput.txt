@@ -1,5 +1,5 @@
-   Total Votes Candidates
-0      3521001       Khan
-1      3521001     Correy
-2      3521001         Li
-3      3521001   O'Tooley
+{'candidates': array(['Khan', 'Correy', 'Li', "O'Tooley"], dtype=object), 'Votes': Khan        2218231
+Correy       704200
+Li           492940
+O'Tooley     105630
+Name: Candidate, dtype: int64}
