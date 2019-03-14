@@ -1,0 +1,2 @@
+   Total Months  Net Gain/Loss  Average Gain/Loss  Max Increase  Max Decrease
+0            86       38382578       -2315.117647       1170593      -1196225
